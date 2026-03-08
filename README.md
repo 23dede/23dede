@@ -3,7 +3,9 @@
 I turn raw data into decisions.
 From pipeline architecture to the final visual a manager acts on — I own the full chain.
 
-Based in Dakar, Senegal · Available remotely for French-speaking Europe · French and English
+3 years of experience as a freelance analytics engineer.
+
+Based in Dakar, Senegal · Available remotely for French-speaking Europe, French-speaking Africa and the United States · French and English
 
 ---
 
@@ -74,7 +76,7 @@ Data sourced from the public Olist Brazilian E-Commerce dataset on Kaggle.
 ## Currently
 
 Building a freelance portfolio targeting analytics engineering and BI consulting missions
-in French-speaking Europe. Open to remote project engagements, data transformation mandates,
-and Power BI consulting contracts.
+in French-speaking Europe, French-speaking Africa and the United States. Open to remote
+project engagements, data transformation mandates, and Power BI consulting contracts.
 
 Reach me via GitHub or connect on LinkedIn.
