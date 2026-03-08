@@ -78,4 +78,4 @@ Data sourced from the public Olist Brazilian E-Commerce dataset on Kaggle.
 Analytics engineering missions, data pipeline design, Power BI consulting and BI reporting
 contracts — remote, across French-speaking Europe, French-speaking Africa and the United States.
 
-Reach me via GitHub or connect on LinkedIn.
+LinkedIn: https://www.linkedin.com/in/djafar-mmadi
