@@ -73,10 +73,9 @@ Data sourced from the public Olist Brazilian E-Commerce dataset on Kaggle.
 
 ---
 
-## Currently
+## Available for
 
-Building a freelance portfolio targeting analytics engineering and BI consulting missions
-in French-speaking Europe, French-speaking Africa and the United States. Open to remote
-project engagements, data transformation mandates, and Power BI consulting contracts.
+Analytics engineering missions, data pipeline design, Power BI consulting and BI reporting
+contracts — remote, across French-speaking Europe, French-speaking Africa and the United States.
 
 Reach me via GitHub or connect on LinkedIn.
